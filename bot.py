@@ -7,8 +7,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # 🔐 Your keys here
-TELEGRAM_BOT_TOKEN = "7544450572:AAH_XXVDtm46G92E_SDhuPBC-cG9CN69WU8"
-GROQ_API_KEY = "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"
+TELEGRAM_BOT_TOKEN = ""
+GROQ_API_KEY = ""
 MODEL = "llama3-8b-8192"
 
 # 🧠 Ask Groq
